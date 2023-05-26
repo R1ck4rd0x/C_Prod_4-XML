@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adaptador>
+    <adaptador_IP>"{"192.168.1.140","fe80::a87c:670b:6bc2:b23f"}"</adaptador_IP>
+    <Descripcion>Intel(R) Wi-Fi 6 AX200 160MHz
+</Descripcion>
+    <subnet_Mask>"{"255.255.255.0","64"}
+"</subnet_Mask>
+    <gateway>"{"192.168.1.1"}"</gateway>
+    <servidores_DNS>"{"8.8.8.8","8.8.4.4"}
+"</servidores_DNS>
+    <DNS_primario>
+        <Tiempo_medio_en_ms>383.000000</Tiempo_medio_en_ms>
+        <numero_de_saltos_del_DNS_primario>8</numero_de_saltos_del_DNS_primario>
+        <IPs_de_cada_salto>" 192.168.1.1, 10.71.0.1, 10.14.3.57, 209.85.168.54, 108.170.253.225, 142.250.214.41, 8.8.8.8, "</ IPs_de_cada_salto>
+    </DNS_primario>
+</adaptador>

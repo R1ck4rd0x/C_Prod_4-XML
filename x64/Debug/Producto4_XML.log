@@ -1,0 +1,9 @@
+﻿  GuardarEN_XML.c
+C:\Users\FA706\OneDrive\Documentos\UOC BACKUP\2o Semestre\Programa Comandos en C\Prueba2\Producto4_XML\Definiciones.h(15,1): warning C4005: 'INET_ADDRSTRLEN': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ws2ipdef.h(938): message : vea la definición anterior de 'INET_ADDRSTRLEN'
+  MAIN.c
+C:\Users\FA706\OneDrive\Documentos\UOC BACKUP\2o Semestre\Programa Comandos en C\Prueba2\Producto4_XML\Definiciones.h(15,1): warning C4005: 'INET_ADDRSTRLEN': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ws2ipdef.h(938): message : vea la definición anterior de 'INET_ADDRSTRLEN'
+C:\Users\FA706\OneDrive\Documentos\UOC BACKUP\2o Semestre\Programa Comandos en C\Prueba2\Producto4_XML\MAIN.c(62,30): warning C4020: 'tracert': hay demasiados parámetros reales
+  Generando código...
+  Producto4_XML.vcxproj -> C:\Users\FA706\OneDrive\Documentos\UOC BACKUP\2o Semestre\Programa Comandos en C\Prueba2\Producto4_XML\x64\Debug\Producto4_XML.exe

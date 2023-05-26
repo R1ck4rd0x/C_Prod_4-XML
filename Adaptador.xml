@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adaptador>
+    <adaptador_IP>{"192.168.1.140","fe80::a87c:670b:6bc2:b23f"}</adaptador_IP>
+    <subnet_Mask>{"255.255.255.0","64"}
+</subnet_Mask>
+    <gateway>{"192.168.1.1"}</gateway>
+    <DNS_primario>{"8.8.8.8","8.8.4.4"}
+</DNS_primario>
+</adaptador>

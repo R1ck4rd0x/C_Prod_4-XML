@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adaptador>
+    <adaptador_IP>"
+"</adaptador_IP>
+    <Descripcion>TAP-Windows Adapter V9
+</Descripcion>
+    <subnet_Mask>"
+"</subnet_Mask>
+    <gateway>"
+"</gateway>
+    <servidores_DNS>"
+"</servidores_DNS>
+    <DNS_primario>
+        <Tiempo_medio_en_ms>0.000000</Tiempo_medio_en_ms>
+        <numero_de_saltos_del_DNS_primario>-6</numero_de_saltos_del_DNS_primario>
+        <IPs_de_cada_salto>" "</ IPs_de_cada_salto>
+    </DNS_primario>
+</adaptador>
